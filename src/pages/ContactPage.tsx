@@ -28,7 +28,7 @@ const contactInfo = [
     details: [
       'CBE Head Quarters',
       'Churchill Avenue',
-      'P.O. Box 255',
+      'Website : cbecapitalsc.com ',
       'Addis Ababa, Ethiopia'
     ]
   },
